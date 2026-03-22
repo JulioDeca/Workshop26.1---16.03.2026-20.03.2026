@@ -1,0 +1,69 @@
+ANÁLISE DE CONSULTAS E GERAÇÃO DE INSIGHTS NO SISTEMA VELOZCAR
+
+1.
+O presente documento tem como finalidade analisar as informações obtidas por meio de consultas realizadas no banco de dados do sistema VelozCar, uma aplicação voltada para o gerenciamento de uma locadora de veículos. A análise busca interpretar os dados extraídos e apresentar insights relevantes que possam auxiliar na tomada de decisões estratégicas.
+
+2 ANÁLISE DAS CONSULTAS
+2.1 Consulta de Clientes Cadastrados
+
+A consulta realizada apresentou a listagem completa dos clientes cadastrados no sistema, incluindo dados como nome, CPF e data de cadastro.
+
+A partir dessas informações, é possível observar o volume de clientes ativos e identificar padrões de crescimento ao longo do tempo.
+
+Como insight, destaca-se a possibilidade de segmentação dos clientes com base na data de cadastro, permitindo a criação de campanhas de fidelização e ações promocionais direcionadas a diferentes perfis de usuários.
+
+2.2 Consulta de Funcionários
+
+A consulta referente aos funcionários exibiu dados como nome, cargo e salário.
+
+Essa análise permite compreender a estrutura organizacional da empresa, além de possibilitar a identificação de possíveis discrepâncias salariais ou concentração de funções em determinados cargos.
+
+Como aplicação prática, esses dados podem subsidiar decisões relacionadas à gestão de pessoas, como promoções, reajustes salariais e reorganização interna.
+
+2.3 Consulta de Veículos Disponíveis
+
+A consulta apresentou os veículos com status disponível para locação.
+
+Essa informação é essencial para identificar quais veículos estão ociosos, ou seja, não estão gerando receita no momento.
+
+Como insight, pode-se concluir que veículos com baixa taxa de utilização podem demandar estratégias específicas, como promoções ou revisão da política de preços, visando aumentar sua rotatividade.
+
+2.4 Consulta de Aluguéis Realizados
+
+A análise dos aluguéis permitiu visualizar informações como datas, valores e responsáveis pelas transações.
+
+Com esses dados, é possível identificar períodos de maior demanda, bem como o comportamento de consumo dos clientes.
+
+Como aplicação prática, a empresa pode planejar ações promocionais em períodos de baixa demanda e desenvolver programas de fidelidade para clientes recorrentes.
+
+2.5 Consulta de Faturamento
+
+A consulta de faturamento apresentou o valor total obtido com os aluguéis realizados.
+
+Essa informação é fundamental para avaliar o desempenho financeiro da empresa.
+
+A partir disso, é possível estabelecer metas de crescimento, monitorar resultados e tomar decisões estratégicas com base na evolução da receita.
+
+2.6 Consulta de Pagamentos
+
+A análise dos pagamentos evidenciou a existência de registros com status pendente.
+
+Esse dado é relevante, pois indica possíveis riscos de inadimplência.
+
+Como insight, recomenda-se a implementação de políticas de cobrança mais eficazes, bem como o acompanhamento contínuo dos pagamentos em aberto, visando reduzir prejuízos financeiros.
+
+2.7 Consulta de Manutenções
+
+A consulta das manutenções apresentou informações sobre os custos e tipos de serviços realizados nos veículos.
+
+Essa análise permite identificar veículos com maior frequência de manutenção ou custos elevados.
+
+Como aplicação prática, a empresa pode adotar estratégias de manutenção preventiva ou até mesmo considerar a substituição de veículos que apresentam alto custo operacional.
+
+3 CONCLUSÃO
+
+A análise das consultas realizadas no banco de dados do sistema VelozCar permitiu uma compreensão abrangente do funcionamento da locadora, abrangendo aspectos operacionais, financeiros e estratégicos.
+
+Os dados analisados evidenciam oportunidades de melhoria na gestão da frota, no relacionamento com clientes, no controle financeiro e na manutenção dos veículos.
+
+Dessa forma, conclui-se que o uso adequado das informações extraídas do banco de dados é fundamental para apoiar a tomada de decisões, contribuindo para maior eficiência operacional e aumento da rentabilidade do negócio.
